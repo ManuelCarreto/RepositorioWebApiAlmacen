@@ -1,0 +1,10 @@
+﻿Scaffold-DbContext "Data Source=localhost;Initial Catalog=MiLibreria;Integrated Security=True;TrustServerCertificate=True" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force -project MiLibreria
+
+Personalización
+
+Data Source= Ponemos nuestro servidor
+Initial Catalog= Base de datos
+-Provider hace referencia al motor de base de datos a emplear, en nuestro caso SQl Server. Para otras bases de datos, buscar documentación
+-OutputDir = Si queremos cambiar el nombre a la carpeta donde van a ir los modelos, cambiamos models por otro nombre 
+-force sobrescribe los modelos anteriores
+WebAPIAlmacen será el proyecto donde integrará los modelos

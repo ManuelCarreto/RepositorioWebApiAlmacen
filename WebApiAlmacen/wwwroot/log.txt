@@ -1,0 +1,5 @@
+::1 - GET - /api/Familias - 13/11/2023 9:41:11
+::1 - GET - /api/Familias - 13/11/2023 9:41:27
+::1 - GET - /api/Familias - 13/11/2023 9:42:00
+::1 - POST - /api/Familias - 13/11/2023 9:45:16 - Bloqueado
+::1 - GET - /familias - 13/11/2023 9:45:35

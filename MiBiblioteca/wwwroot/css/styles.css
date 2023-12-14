@@ -1,0 +1,55 @@
+﻿body {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #212529;
+}
+
+h1 {
+    color: #adb5bd;
+}
+
+#btnEnviar, #btnConectar {
+    background-color: #0d6efd;
+    color: white;
+    margin-top: 10px;
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+
+#btnConectar {
+    background-color: #198754;
+}
+
+#lstMensajes li {
+    color: #ffffff;
+    list-style: none;
+}
+
+#lstUsuarios li {
+    color: #ffffff;
+    list-style: none;
+}
+#lstUsuariosTotales li {
+    color: #ffffff;
+    list-style: none;
+}
+
+.form-control {
+    max-width: 300px;
+    margin: auto;
+}
+
+label {
+    text-align: right;
+}
+
+
