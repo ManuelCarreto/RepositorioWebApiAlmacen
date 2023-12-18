@@ -34,7 +34,7 @@ public class PrecioValidacionTests
         Assert.IsFalse(badResult);
         Assert.IsNotNull(badResult);
     }
-    [TestMethod]
+    [TestMethod()]
     public void PrecioValidacionTest1()
     {
         // preparacion

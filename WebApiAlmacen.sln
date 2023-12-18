@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiLibreria", "MiBiblioteca\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiFacturacion", "MiFacturacion\MiFacturacion.csproj", "{6A80A604-76B6-49A7-9831-7610CAC7CC8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiLibreriaTests", "MiLibreriaTests\MiLibreriaTests.csproj", "{F31C5F42-C142-47BA-BD05-90C9448F3C0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiLibreriaTests", "MiLibreriaTests\MiLibreriaTests.csproj", "{F31C5F42-C142-47BA-BD05-90C9448F3C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2EPruebas", "NunixTests\E2EPruebas.csproj", "{733C2A45-42BA-4144-8E59-3EA50DECBF47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F31C5F42-C142-47BA-BD05-90C9448F3C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F31C5F42-C142-47BA-BD05-90C9448F3C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F31C5F42-C142-47BA-BD05-90C9448F3C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733C2A45-42BA-4144-8E59-3EA50DECBF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733C2A45-42BA-4144-8E59-3EA50DECBF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733C2A45-42BA-4144-8E59-3EA50DECBF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733C2A45-42BA-4144-8E59-3EA50DECBF47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
